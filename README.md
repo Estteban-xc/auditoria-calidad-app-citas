@@ -77,6 +77,15 @@ El guion de la sustentación de 3 minutos está en [`docs/sustentacion.md`](docs
     └── sustentacion.md           # bloque 6
 ```
 
+## Evidencias del Proyecto
+
+* **Ejecución exitosa del Pipeline (Puerta de Calidad):** 
+  ![Puerta de Calidad](docs/evidencia_ci.png)
+
+* **Tablero Kanban con Límites WIP:** 
+  ![Tablero Kanban](docs/tablero_kanban.png)
+  
+
 ## 5. Cómo ejecutar las pruebas
 
 ```bash
