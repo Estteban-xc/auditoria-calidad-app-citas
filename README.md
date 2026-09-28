@@ -84,13 +84,16 @@ El guion de la sustentación de 3 minutos está en [`docs/sustentacion.md`](docs
 
 ## Tablero Kanban (Bloque 2)
 
-El tablero Kanban con la gestión visual del proyecto, sus 5 columnas y los límites de Trabajo en Progreso (WIP) configurados está disponible directamente en la pestaña Projects de este repositorio:
+El tablero Kanban con la gestión visual del proyecto, sus 5 columnas y los límites de Trabajo en Progreso (WIP) configurados está disponible en la pestaña Projects de este repositorio:
 
 * [Ver Tablero Kanban en GitHub Projects](https://github.com/Estteban-xc/auditoria-calidad-app-citas/projects)
 
-También puedes consultar las evidencias y políticas del tablero en los siguientes archivos del repositorio:
+### Vista del Tablero
+
+![Tablero Kanban](docs/tablero_kanban.png)
+
+Puedes consultar la documentación de políticas en:
 * [Políticas Kanban y WIP](docs/politicas_kanban.md)
-* [Captura del Tablero](docs/tablero_kanban.png)
   
 
 ## 5. Cómo ejecutar las pruebas
