@@ -104,3 +104,10 @@ pytest --cov=src --cov-fail-under=80
 ```
 
 En GitHub Codespaces o en cualquier terminal con Python 3.12. No requiere instalar nada más.
+
+## Integrantes del Equipo
+
+* Samuel Nieto Pardo
+* Nelson Julián Martínez Bedoya
+* William David Vivas Maldonado
+* Mauricio Esteban Varela Cañon
