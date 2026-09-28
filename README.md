@@ -80,7 +80,7 @@ El guion de la sustentación de 3 minutos está en [`docs/sustentacion.md`](docs
 ## Evidencias del Proyecto
 
 * **Ejecución exitosa del Pipeline (Puerta de Calidad):** 
-  ![Puerta de Calidad](docs/evidencia_ci.png)
+  ![Puerta de Calidad](docs/evidencia_ci_github_actions.png)
 
 * **Tablero Kanban con Límites WIP:** 
   ![Tablero Kanban](docs/tablero_kanban.png)
